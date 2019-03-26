@@ -8,3 +8,18 @@ Input:
 
 Example:
 Input:
+2 3
+4.5 2 1.3
+4 12 1.11
+3 2
+5 4
+4 3
+3 2
+
+Output:
+34.4
+26.6
+71.33
+54.22
+
+Created for my Principles of Programming Languages course
